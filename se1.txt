@@ -1,0 +1,30 @@
+Python
+
+referência: https://www.python.org/ 
+relação: Criar aplicações web
+
+------
+Git
+
+referência: https://git-scm.com/
+relação: Registrar o histórico de edições de qualquer tipo de arquivo 
+
+------
+VS Code
+
+referência: https://code.visualstudio.com/ 
+relação: Criar ou editar os códigos do site, como html, css e javascript
+
+------
+Sqlitebrowser
+
+referência: https://sqlitebrowser.org/
+relação: Fazer uploads e armazenar arquivos do site, como imagens e vídeos
+
+------
+Navegadores
+
+referência: https://www.google.com/intl/pt-BR/chrome/
+https://www.mozilla.org/pt-BR/firefox/new/ 
+
+relação: Abrir os sites criados para verificar o design, velocidade e responsividade
