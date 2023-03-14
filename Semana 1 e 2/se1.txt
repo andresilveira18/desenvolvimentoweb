@@ -1,0 +1,39 @@
+Python
+
+referência: https://www.python.org/ 
+relação: Criar aplicações web 
+
+------
+Git
+
+referência: https://git-scm.com/
+relação: Registrar o histórico de edições de qualquer tipo de arquivo 
+
+------
+VS Code
+
+referência: https://code.visualstudio.com/ 
+relação: Criar ou editar os códigos do site, como html, css e javascript
+
+------
+Sqlitebrowser
+
+referência: https://sqlitebrowser.org/
+relação: Fazer uploads e armazenar arquivos do site, como imagens e vídeos
+
+------
+Navegadores
+
+referência: https://www.google.com/intl/pt-BR/chrome/
+https://www.mozilla.org/pt-BR/firefox/new/ 
+
+relação: Abrir os sites criados para verificar o design, velocidade e responsividade
+
+------
+Protocolos de Aplicação
+
+Aberto: A grande maioria das aplicações web utiliza o protocolo HTTP para transferir dados entre o cliente e o servidor. O HTTP é baseado em texto, o que significa que os dados transmitidos pelo protocolo são legíveis para humanos, facilitando a depuração e a compreensão.
+Exemplo Aberto: Facebook. Quando um usuário faz login no Facebook, o navegador envia uma solicitação HTTP para o servidor do Facebook, que responde com a página inicial do usuário.
+
+Proprietário: Protocolos proprietários geralmente são desenvolvidos por empresas privadas para uso interno em produtos ou serviços que exigem criptografia.
+Exemplo Proprietário: Skype. Seu protocolo é usado para garantir que as chamadas do Skype sejam criptografadas.
